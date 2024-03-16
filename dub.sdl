@@ -1,0 +1,6 @@
+name "i2d-pathfinder"
+description "BetterC bindings to the Pathfinder vector rendering library. "
+authors "Luna"
+copyright "Copyright © 2024, Luna"
+license "Apache 2.0"
+dependency "bindbc-loader" version="~>1.1.5"
