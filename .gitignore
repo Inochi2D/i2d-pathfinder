@@ -16,3 +16,4 @@ i2d-pathfinder-test-*
 *.lst
 
 dub.selections.json
+out/
